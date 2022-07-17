@@ -1,6 +1,6 @@
 # Blog with React Redux
 
-[See the page]()
+[See the page](https://blog-redux-mindset.vercel.app/)
 
 * I made a mini Blog App with Redux Toolkit.
 * I used Material UI for styling.
